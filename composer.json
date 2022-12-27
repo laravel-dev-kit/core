@@ -12,7 +12,10 @@
     "homepage": "https://github.com/laravel-dev-kit/core",
     "keywords": ["Laravel", "Core"],
     "require": {
-        "illuminate/support": "~9"
+        "illuminate/support": "~9",
+        "laravel-dev-kit/design-patterns": "dev-dev",
+        "laravel-dev-kit/eloquent": "dev-dev",
+        "laravel-dev-kit/helpers": "dev-dev"
     },
     "require-dev": {
         "phpunit/phpunit": "~9.0",
